@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Registration App</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="name">(Enter Name Here)</string>
+    <string name="school">(Enter School)</string>
+    <string name="studentID">(Enter Student ID)</string>
+    <string name="phone">(Enter Phone)</string>
+    <string name="email">(Enter Email)</string>
+    <string name="register">Register</string>
 </resources>
